@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+pandas
+datasets
+google-generativeai
+python-dotenv
+google-cloud-storage
+google-auth
+deep-translator
+langdetect
