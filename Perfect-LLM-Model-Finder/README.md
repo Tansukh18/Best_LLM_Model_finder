@@ -1,4 +1,8 @@
 # Perfect LLM Model Finder
+
+🚀 **Live Web App**: [https://best-llm-model-finder-3a5c.vercel.app](https://best-llm-model-finder-3a5c.vercel.app)  
+⚙️ **Backend API**: [https://perfect-llm-finder-api.onrender.com](https://perfect-llm-finder-api.onrender.com) (Status: [Health Check](https://perfect-llm-finder-api.onrender.com/api/health))
+
 Perfect LLM Model Finder is a tool designed to simplify the overwhelming process of choosing the right LLM wrt Usecase or Project.
 
 ![Perfect LLM Model Finder](PM.png)
